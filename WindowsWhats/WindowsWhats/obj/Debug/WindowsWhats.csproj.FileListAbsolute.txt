@@ -1,0 +1,11 @@
+E:\RMAD\WindowsWhats\WindowsWhats\bin\Debug\WindowsWhats.exe.config
+E:\RMAD\WindowsWhats\WindowsWhats\bin\Debug\WindowsWhats.exe
+E:\RMAD\WindowsWhats\WindowsWhats\bin\Debug\WindowsWhats.pdb
+E:\RMAD\WindowsWhats\WindowsWhats\bin\Debug\WhatsAppApi.dll
+E:\RMAD\WindowsWhats\WindowsWhats\obj\Debug\WindowsWhats.csprojResolveAssemblyReference.cache
+E:\RMAD\WindowsWhats\WindowsWhats\obj\Debug\WindowsWhats.Form1.resources
+E:\RMAD\WindowsWhats\WindowsWhats\obj\Debug\WindowsWhats.Properties.Resources.resources
+E:\RMAD\WindowsWhats\WindowsWhats\obj\Debug\WindowsWhats.csproj.GenerateResource.Cache
+E:\RMAD\WindowsWhats\WindowsWhats\obj\Debug\WindowsWhats.csproj.CoreCompileInputs.cache
+E:\RMAD\WindowsWhats\WindowsWhats\obj\Debug\WindowsWhats.exe
+E:\RMAD\WindowsWhats\WindowsWhats\obj\Debug\WindowsWhats.pdb
